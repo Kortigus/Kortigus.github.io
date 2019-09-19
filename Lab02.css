@@ -1,0 +1,36 @@
+.header {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 9em;
+    border-style: solid;
+    border-color: lightgray;
+    border-width: 0.1em;
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-top: 0.2%;
+    padding-bottom: 0.2%;
+}
+
+.title {
+    font-size: 20pt;
+}
+
+.search {
+    width: 100%;
+}
+
+.artists {
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    height: fit-content;
+    border-style: solid;
+    border-color: lightgray;
+    border-width: 0.1em;
+    border-top-style: hidden;
+}
+
+.artists:hover {
+    background-color: #F5F5F5;
+}
